@@ -1,0 +1,22 @@
+{
+  "project_id": "p_534d_d",
+  "author": {
+    "id": "<author id, auto-filled>"
+  },
+  "entry": "main.lua",
+  "version": "1.0.0",
+  "taptap_publish": {
+    "title": "",
+    "description": "",
+    "category": "",
+    "screen_orientation": "landscape",
+    "collection_type": "sce",
+    "trial_note": "",
+    "app_platforms": "1,2"
+  },
+  "assets": {
+    "icon": "",
+    "screenshots": [],
+    "promotional_image": ""
+  }
+}

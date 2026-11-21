@@ -1,0 +1,4 @@
+<material>
+    <surfaceshader name="Shaders/OceanWater.shader" />
+    <surfacetexture name="detail_map" texture="Textures/Water/DetailNormal.ktx" />
+</material>

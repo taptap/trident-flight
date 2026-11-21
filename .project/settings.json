@@ -1,0 +1,31 @@
+{
+  "$schema": "../schemas/settings.schema.json",
+
+  "sources": {
+    "engine":{
+      "tag":"latest"
+    },
+    "engine-res":{
+      "tag":"latest"
+    },
+    "urhox-libs":{
+      "tag":"latest"
+    },
+    "official-res":{
+      "tag":"latest"
+    }
+  },
+
+  "build": {
+    "generate_fs_path": true,
+    "output_dir": "../dist",
+
+    "asset_dirs": [
+      "../assets",
+      "../scripts"
+    ],
+
+    "asset_ignores": [
+    ]
+  }
+}

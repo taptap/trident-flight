@@ -1,0 +1,32 @@
+# 下面是 kit 与本地开发文件，由引擎的 tools/dev/create_local_project.py 生成，--refresh 可重建，不提交
+AGENTS.md
+CLAUDE.md
+LOCAL-DEV.md
+engine-docs/
+editor-docs/
+plugin-docs/
+examples/
+templates/
+urhox-libs/
+schemas/
+.emmylua/
+.cli/
+.installer/
+.claude/
+.agents/
+tools/run-local.sh
+tools/localize_refs.py
+tools/editor_mcp.py
+scripts/.luarc.json
+
+# 从兼容引擎准备的运行资源，不随本项目再分发
+assets/Shaders/OceanWater.shader
+assets/Shaders/OceanWater.shaderinc
+
+# 临时文件（截图、验证报告）与构建产物
+/.amp/in/
+.tmp/
+.build/
+dist/
+*.log
+.DS_Store
